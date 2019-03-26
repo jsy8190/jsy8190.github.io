@@ -16,12 +16,11 @@ defaults:
     values:
       title: The Interview
 
-description: Stylish Jekyll Theme
+description: Hello, Everyone!
 author:
   name: jsy8190
   email: jeongsongyi818190@gmail.com
   github: jsy8190?tab=repositories
-  bio: Hello, Everyone!
 
 rss_path: feed.xml
 categories_path: categories.html
