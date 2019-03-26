@@ -5,20 +5,20 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: dbyll
-google_analytics: dbyll
-title: dbyll
+disqus: The Interview
+google_analytics: jsy8190
+title: The Interview
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: The Interview
 
 description: Stylish Jekyll Theme
 author:
-  name: The Interview
+  name: jsy8190
   email: jeongsongyi818190@gmail.com
   github: https://github.com/jsy8190
   bio: Hello, Everyone!
